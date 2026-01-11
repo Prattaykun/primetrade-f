@@ -11,7 +11,7 @@
 			"name": "Tsaks",
 			"item": [
 				{
-					"name": "New Request",
+					"name": "post task",
 					"request": {
 						"method": "POST",
 						"header": [
@@ -46,7 +46,7 @@
 					"response": []
 				},
 				{
-					"name": "New Request",
+					"name": "delete task",
 					"request": {
 						"method": "DELETE",
 						"header": [
@@ -82,7 +82,7 @@
 					"response": []
 				},
 				{
-					"name": "New Request",
+					"name": "get tasks",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -115,7 +115,7 @@
 					"response": []
 				},
 				{
-					"name": "New Request",
+					"name": "update task status",
 					"request": {
 						"method": "PUT",
 						"header": [
